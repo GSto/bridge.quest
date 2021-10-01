@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Allbridge",
+    "url": "https://allbridge.io",
+    "networks": ["ETH", "SOL", "Binance", "Polygon", "Avalanche", "Huobi Eco Chain", "Celo"]
+  },
+  {
+    "name": "xPollinate",
+    "url": "https://www.xpollinate.io/",
+    "networks": ["Binance", "Polygon", "xDAI", "Fantom", "Arbitrum"]
+  },
+  {
+    "name": "Synapse Protocol",
+    "url": "https://synapseprotocol.com/",
+    "networks": ["ETH", "BSC", "Polygon", "Arbitrum", "AVAX"]
+  },
+  {
+    "name": "Hop Exchange",
+    "url": "https://hop.exchange/)",
+    "networks": ["ETH", "Arbitrum", "Optimism", "Polygon", "xDAI"]
+  },
+  {
+    "name": "Terra Bridge",
+    "url": "https://bridge.terra.money/",
+    "networks": ["Terra", "ETH", "BSC", "Harmony"]
+  },
+  {
+    "name": "SpookySwap",
+    "url": "https://spookyswap.finance/bridge",
+    "networks": ["Fantom", "ETH", "BSC"]
+  },
+  {
+    "name": "Arbitum Bridge",
+    "url": "https://bridge.arbitrum.io/",
+    "networks": ["Arbitum"]
+  }
+
+]
