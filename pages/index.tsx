@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Bridges from '../_data/bridges'
+import Bridges from '../_data/bridges.json'
 
 interface TBridge {
   name: string,
