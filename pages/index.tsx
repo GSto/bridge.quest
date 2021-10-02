@@ -27,8 +27,8 @@ const Home: NextPage = () => {
 
   console.info(searchResults);
 
-  const handleSearchChange = event => {
-    setSearchTerm(event.target.value);
+  const handleSearchChange = (event: KeyboardEvent) => {
+    setSearchTerm((event.target! as HTMLTextAreaElement).value);
   };
 
   React.useEffect(() => {
