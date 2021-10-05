@@ -12,6 +12,7 @@ a {
 
 main {
   padding-bottom: 4em;
+  border-top: 0px;
 }
 
 * {
