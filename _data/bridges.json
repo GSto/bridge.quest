@@ -30,9 +30,9 @@
     "networks": ["Fantom", "ETH", "BSC"]
   },
   {
-    "name": "Arbitrum Bridge",
+    "name": "Arbitum Bridge",
     "url": "https://bridge.arbitrum.io/",
-    "networks": ["Arbitrum"]
+    "networks": ["Arbitum"]
   }
 
 ]
