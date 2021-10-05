@@ -18,3 +18,9 @@ main {
 * {
   box-sizing: border-box;
 }
+
+input[type=text] {
+  border: 0;
+  background: #000;
+  color: #fff;
+}
