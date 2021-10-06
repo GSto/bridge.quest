@@ -33,6 +33,15 @@
     "name": "Arbitrum Bridge",
     "url": "https://bridge.arbitrum.io/",
     "networks": ["Arbitrum"]
+  },
+  {
+    "name": "Rainbow Bridge",
+    "url": "https://ethereum.bridgetonear.org",
+    "networks": ["NEAR", "Ethereum"]
+  },
+  {
+    "name": "Aurora Bridge",
+    "url": "https://aurora.dev/bridge",
+    "networks": ["NEAR (Aurora EVM)", "Ethereum"]
   }
-
 ]
