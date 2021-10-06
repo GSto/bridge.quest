@@ -12,8 +12,15 @@ a {
 
 main {
   padding-bottom: 4em;
+  border-top: 0px;
 }
 
 * {
   box-sizing: border-box;
+}
+
+input[type=text] {
+  border: 0;
+  background: #000;
+  color: #fff;
 }
